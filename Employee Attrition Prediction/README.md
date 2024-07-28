@@ -1,7 +1,7 @@
 Employee Attrition Prediction
 ==============================
 
-To make a model to predict if an employee will attrite or not
+To make a model to predict if an employee will attrite or not using Support Vector Machine
 
 Project Organization
 ------------
